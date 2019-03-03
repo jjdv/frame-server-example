@@ -1,7 +1,8 @@
 {
   "name": "frame-server-example",
   "version": "1.0.0",
-  "description": "Basic implementation example of frame-server",
+  "private": true,
+  "description": "Example implementation of frame-server with advanced configuration options",
   "scripts": {
     "start": "fserver",
     "nodemon": "nodemon node_modules/frame-server/bin/frame-server.cli.js"
@@ -9,7 +10,7 @@
   "author": "Jacek Jakubik (https://github.com/jjdv)",
   "license": "MIT",
   "dependencies": {
-    "frame-server": "file:../frame-server/frame-server-1.0.0-alpha.3.tgz",
+    "frame-server": "^1.0.0",
     "pug": "^2.0.3"
   },
   "devDependencies": {
