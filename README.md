@@ -1,3 +1,4 @@
+[![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 # [Frame Server](https://www.npmjs.com/package/frame-server) Implementation Example
 
 ## Installation
